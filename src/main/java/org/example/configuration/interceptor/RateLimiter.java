@@ -1,4 +1,4 @@
-package org.example;
+package org.example.configuration.interceptor;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

@@ -1,0 +1,4 @@
+rate_limiter:
+  token_bucket:
+    request_threshold: 10
+    reset_time_second: 60
